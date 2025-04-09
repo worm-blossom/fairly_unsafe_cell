@@ -1,0 +1,6 @@
+[package]
+name = "fairly_unsafe_cell"
+version = "0.1.0"
+edition = "2021"
+description = "A hybrid between an UnsafeCell and a RefCell"
+license = "MIT OR Apache-2.0"
